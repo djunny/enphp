@@ -1,7 +1,7 @@
 
 
 
-# enphp
+# EnPHP
 
 ![LOGO](https://github.com/djunny/enphp/raw/master/logo.png)
 
