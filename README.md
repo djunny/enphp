@@ -11,6 +11,14 @@
 // a Open Source PHP Code Confusion + Encryption Project
 ```
 
+
+## 项目地址
+
+GITHUB：https://github.com/djunny/enphp
+
+GITEE：https://gitee.com/mz/enphp_opensource
+
+
 ## 背景
 
 ```
@@ -138,3 +146,5 @@ namespace a{
    echo 3;
    //格式：/*<hide>*/要隐藏的代码/*</hide>*/
 ```
+
+
