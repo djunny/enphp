@@ -6,6 +6,11 @@
 ![LOGO](https://github.com/djunny/enphp/raw/master/logo.png)
 
 
+## 新版加密已上线，欢迎试用
+
+ENPHP：http://enphp.djunny.com/
+
+
 ```
 // 一个开源加密混淆 PHP 代码项目
 // a Open Source PHP Code Confusion + Encryption Project
