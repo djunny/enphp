@@ -123,7 +123,7 @@ function strip_whitespace($content, $options = array()) {
         // 重复加密次数，加密次数越多反编译可能性越小，但性能会成倍降低
         'deep'               => 1,
         // 默认PHP版本
-        'php'                => 5,
+        'php'                => PHP_MAJOR_VERSION,
     ), $options);
     $is_debug             = $options['debug'];
     $php_version          = $options['php'];
